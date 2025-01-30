@@ -2,4 +2,16 @@
 **Skills**: Data Analysis, Agile, SQL, UML, Data Visualization
 **Tools**: PowerBI, Microsoft Excel, Tableau, MySQL
 
-You can reach me here: https://www.linkedin.com/in/farhansrihadiputra/
+## Projects 📂  
+1. **ERP Project with Microsoft ADempiere**  
+   -  
+   - 
+   -  
+
+2. **Business Analyst: Google Playstore - Solo Project**  
+   - 
+   - 
+   - 
+[🔗 LinkedIn](https://www.linkedin.com/in/farhansrihadiputra/)
+
+(on progress)
