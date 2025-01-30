@@ -1,4 +1,4 @@
-# Business Analyst Portfolio - Farhan Srihadi Putra
+# Projects Portfolio - Farhan Srihadi Putra
 **Skills**: Data Analysis, Agile, SQL, UML, Data Visualization
 **Tools**: PowerBI, Microsoft Excel, Tableau, MySQL
 
