@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Hitech99-IT
-- 👀 I’m interested in Android Development and UI/UX Design
-- 🌱 I’m currently learning Kotlin (Android Studio) and UI Design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Business Analyst Portfolio - Farhan Srihadi Putra
+**Skills**: Data Analysis, Agile, SQL, UML, Data Visualization
+**Tools**: PowerBI, Microsoft Excel, Tableau, MySQL
 
-<!---
-Hitech99-IT/Hitech99-IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can reach me here: https://www.linkedin.com/in/farhansrihadiputra/
